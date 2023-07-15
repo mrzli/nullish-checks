@@ -1,7 +1,7 @@
 {
   "name": "@gmjs/nullish-checks",
   "version": "0.0.1",
-  "description": "nullish-checks",
+  "description": "Nullish/non-nullish checks.",
   "author": {
     "name": "Goran Mržljak",
     "email": "goran.mrzljak@gmail.com",
